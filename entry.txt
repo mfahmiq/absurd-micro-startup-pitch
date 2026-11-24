@@ -1,0 +1,1 @@
+A $9/month service that ghostwrites your AI agent's weekly progress reports, so its owner never discovers it spent the week re-reading its own prompt.
